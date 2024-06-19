@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$to = 'marveltheme@gmail.com';
 
 	// Email Subject 
-	$emailSubject = 'New Message from BentoFolio Contact Form';
+	$emailSubject = 'New Message from MiXedCS Contact Form';
 
 	// Email Header 
 	$headers  = 'MIME-Version: 1.0' . "\r\n"
